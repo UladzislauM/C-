@@ -1,0 +1,28 @@
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.deps.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.runtimeconfig.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.runtimeconfig.dev.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\ref\Задание 9.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Задание 9.1.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Telegram.Bot.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\bin\Debug\net5.0\Microsoft.ServiceBus.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.AssemblyInfoInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.AssemblyInfo.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.csproj.CopyComplete
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\ref\Задание 9.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 9.1\Задание 9.1\Задание 9.1\obj\Debug\net5.0\Задание 9.1.genruntimeconfig.cache

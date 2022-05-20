@@ -1,0 +1,6 @@
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Release\Homework_01.exe.config
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Release\Homework_01.exe
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Release\Homework_01.pdb
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Release\Homework_01.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Release\Homework_01.exe
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Release\Homework_01.pdb

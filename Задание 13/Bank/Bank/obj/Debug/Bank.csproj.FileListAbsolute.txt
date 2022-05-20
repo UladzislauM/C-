@@ -1,0 +1,66 @@
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\App.g.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.lref
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.exe.config
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.exe
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.xml
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\MainWindow.baml
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.g.resources
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.exe
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\EntDeadline.g.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\EntDeadline.baml
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\AddKlient.g.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\AddKlient.baml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Bank.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.xml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\AddKlient.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\EntDeadline.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\MainWindow.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\App.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.lref
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\AddKlient.baml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\EntDeadline.baml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\MainWindow.baml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.g.resources
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 13\Bank\Bank\obj\Debug\Bank.pdb
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\bin\Debug\Bank.exe.config
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\bin\Debug\Bank.exe
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\bin\Debug\Bank.pdb
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.dll
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\bin\Debug\Newtonsoft.Json.xml
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\AddKlient.g.cs
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\EntDeadline.g.cs
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\App.g.cs
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.cache
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank_MarkupCompile.lref
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\AddKlient.baml
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\EntDeadline.baml
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\MainWindow.baml
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.g.resources
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.exe
+D:\YandexDisk\Skilbox\Homeworks\C#\Задание 13\Bank\Bank\obj\Debug\Bank.pdb

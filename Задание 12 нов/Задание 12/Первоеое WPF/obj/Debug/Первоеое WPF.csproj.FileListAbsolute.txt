@@ -1,0 +1,15 @@
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\bin\Debug\Первоеое WPF.exe.config
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\bin\Debug\Первоеое WPF.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\bin\Debug\Первоеое WPF.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\MainWindow.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\App.g.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF_MarkupCompile.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF_MarkupCompile.lref
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\MainWindow.baml
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.g.resources
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое_WPF.Properties.Resources.resources
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.csproj.GenerateResource.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Первоеое WPF\obj\Debug\Первоеое WPF.pdb

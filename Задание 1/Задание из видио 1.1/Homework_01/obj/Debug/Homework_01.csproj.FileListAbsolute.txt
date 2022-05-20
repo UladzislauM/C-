@@ -1,0 +1,35 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.AssemblyReference.cache
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+D:\Диск Настольный\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.AssemblyReference.cache
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+D:\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+D:\Диск\YandexDisk\Skilbox\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb

@@ -1,0 +1,29 @@
+using System.Data // - вроде
+//Создаём табличку 
+DataTable DT = new DataTable();
+ 
+//Создаём столбцы в этой таблице
+          DT.Columns.Add("№");
+          DT.Columns.Add("Реципиент");
+          DT.Columns.Add("Донор");
+//с типами ячеек сами разберётесь(если не устраивает текстовый формат), инфы полно в "нэте"
+ 
+//добавляем данные 
+          DataRow Row = DT.NewRow();
+          Row[0] = "1";
+          Row[1] = "Recipient1";
+          Row[2] = "Donor1";
+          DT.Rows.Add(Row);
+ 
+//помещаем табличку в  DataGrid и любуемся результатом
+DataGridLinks.ItemsSource = DT.DefaultView;
+ 
+//получаем данные из ячейки DataGrid
+//приводим строку, по индексу 0, к типу DataRowView 
+DataRowView drv = DataGridLinks.Items[0] as DataRowView;
+//Либо первую выделенную строку
+DataRowView drv = DataGridLinks.SelectedCells[0] as DataRowView; // можно в цикле перебрать все выделенные(как вам удобней)
+//далее смотрим содержимое ячейки 3 отсчитывая от нуля(0, 1, 2)
+MessageBox.Show(drv[2].ToString())";
+//либо программно изменяем содержимое ячейка DataGrid
+drv[2] = "Крови моей попил в своё время WPF";

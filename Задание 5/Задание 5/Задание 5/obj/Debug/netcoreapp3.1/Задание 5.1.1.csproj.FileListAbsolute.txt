@@ -1,0 +1,14 @@
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.deps.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.runtimeconfig.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.runtimeconfig.dev.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\bin\Debug\netcoreapp3.1\Задание 5.1.1.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.AssemblyInfoInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.AssemblyInfo.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 5\Задание 5\Задание 5\obj\Debug\netcoreapp3.1\Задание 5.1.1.genruntimeconfig.cache

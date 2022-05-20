@@ -1,0 +1,88 @@
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.deps.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.dev.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfoInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfo.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.genruntimeconfig.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.exe
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.deps.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.dev.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.AssemblyReference.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfoInputs.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfo.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.genruntimeconfig.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.CopyComplete
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.CopyComplete
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.AWT.WinForms.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Beans.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Charsets.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Cldrdata.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Corba.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Jdbc.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Localedata.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Management.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Media.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Misc.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Naming.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Nashorn.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Remoting.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Security.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.SwingAWT.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Tools.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Bind.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Crypto.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Parse.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Transform.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.WebServices.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.XPath.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.AWT.WinForms.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Beans.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Charsets.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Cldrdata.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Corba.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Core.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Jdbc.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Localedata.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Management.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Media.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Misc.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Naming.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Nashorn.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Remoting.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Security.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.SwingAWT.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Text.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Tools.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.Util.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.API.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Bind.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Crypto.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Parse.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.Transform.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.WebServices.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.OpenJDK.XML.XPath.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.Runtime.JNI.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 8\Задание 8\Задание 8\bin\Debug\netcoreapp3.1\IKVM.Runtime.dll

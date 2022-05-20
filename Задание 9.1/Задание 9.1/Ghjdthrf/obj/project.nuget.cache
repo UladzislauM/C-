@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eTXL17uYuRwfO+7NOlTNeSPdtjOCpduG8vtZUMn4qZw7k9UR5BgpevFE5Ogy6mh9Wur1vI1KNNhf5ha8xc3m+w==",
+  "success": true,
+  "projectFilePath": "D:\\Диск\\YandexDisk\\Skilbox\\Домашние Задания\\Задание 9.1\\Задание 9.1\\Ghjdthrf\\проверка.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marsh\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\marsh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\marsh\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\marsh\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\marsh\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.0\\telegram.bot.extensions.polling.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

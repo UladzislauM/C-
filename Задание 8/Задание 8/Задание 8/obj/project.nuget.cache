@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Xy1SZszksmYC3KJ3Yh2330ETrLBpq2VtVe/M3WtOH/WVjHBgdSpp7vFvUByH70MdI0DBTWtiZ9X44ac2pzLZw==",
+  "success": true,
+  "projectFilePath": "D:\\YandexDisk\\Skilbox\\Homeworks\\C#\\Задание 8\\Задание 8\\Задание 8\\Задание 8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pingvi\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512",
+    "C:\\Users\\Pingvi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"IKVM 8.1.5717\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "IKVM",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

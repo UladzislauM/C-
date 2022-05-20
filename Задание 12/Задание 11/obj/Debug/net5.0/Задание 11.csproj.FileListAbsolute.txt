@@ -1,0 +1,36 @@
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.exe
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.deps.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.runtimeconfig.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.runtimeconfig.dev.json
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\ref\Задание 11.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.AssemblyReference.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.AssemblyInfoInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.AssemblyInfo.cs
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.CoreCompileInputs.cache
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.CopyComplete
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\ref\Задание 11.dll
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.pdb
+D:\Диск\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.genruntimeconfig.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.exe
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.deps.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.runtimeconfig.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.runtimeconfig.dev.json
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\ref\Задание 11.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Задание 11.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.AssemblyReference.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.AssemblyInfoInputs.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.AssemblyInfo.cs
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.csproj.CopyComplete
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\ref\Задание 11.dll
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.pdb
+D:\YandexDisk\Skilbox\Домашние Задания\Задание 11\Задание 11\Задание 11\obj\Debug\net5.0\Задание 11.genruntimeconfig.cache

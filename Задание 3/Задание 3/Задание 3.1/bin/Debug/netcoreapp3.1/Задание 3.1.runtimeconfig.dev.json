@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pingvi miner\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pingvi miner\\.nuget\\packages"
+    ]
+  }
+}
